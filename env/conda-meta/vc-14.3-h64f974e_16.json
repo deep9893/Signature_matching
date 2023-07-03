@@ -1,0 +1,34 @@
+{
+  "build": "h64f974e_16",
+  "build_number": 16,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.36.32532"
+  ],
+  "extracted_package_dir": "C:\\Users\\deepp\\.conda\\pkgs\\vc-14.3-h64f974e_16",
+  "features": "",
+  "files": [],
+  "fn": "vc-14.3-h64f974e_16.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\deepp\\.conda\\pkgs\\vc-14.3-h64f974e_16",
+    "type": 1
+  },
+  "md5": "ae80d948fa55a0cc6010bd0df91797a4",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\deepp\\.conda\\pkgs\\vc-14.3-h64f974e_16.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "1409730a75f37838414030997fe839cf33fb67d77da2dd0b02a0a1d166cef257",
+  "size": 17150,
+  "subdir": "win-64",
+  "timestamp": 1687559686939,
+  "track_features": "vc14",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.3-h64f974e_16.conda",
+  "version": "14.3"
+}
